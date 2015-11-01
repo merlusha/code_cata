@@ -5,11 +5,11 @@ import java.math.BigDecimal;
 /**
  * Created by mikalai on 01.11.15.
  */
-public class Quatity {
+public class Quantity {
     private BigDecimal number;
     private Unit unit;
 
-    public Quatity(Unit unit,BigDecimal number){
+    public Quantity(Unit unit, BigDecimal number){
         this.unit=unit;
         this.number=number;
     }
