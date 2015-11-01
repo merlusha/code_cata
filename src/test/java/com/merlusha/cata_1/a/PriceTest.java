@@ -1,4 +1,4 @@
-package com.merlusha.cata_1;
+package com.merlusha.cata_1.a;
 
 import org.junit.Test;
 

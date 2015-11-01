@@ -1,4 +1,4 @@
-package com.merlusha.cata_1;
+package com.merlusha.cata_1.a;
 
 /**
  * Created by mikalai on 01.11.15.
