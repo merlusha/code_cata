@@ -6,6 +6,7 @@ import java.math.BigDecimal;
  * Created by mikalai on 01.11.15.
  */
 public class Quantity {
+
     private BigDecimal number;
     private Unit unit;
 

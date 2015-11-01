@@ -5,7 +5,7 @@ package com.merlusha.cata_1;
  */
 public class Price {
     private Product product;
-    private Quantity quatity;
+    private Quantity quantity;
     private Money price;
 
     public Product getProduct() {
@@ -16,12 +16,12 @@ public class Price {
         this.product = product;
     }
 
-    public Quantity getQuatity() {
-        return quatity;
+    public Quantity getQuantity() {
+        return quantity;
     }
 
-    public void setQuatity(Quantity quatity) {
-        this.quatity = quatity;
+    public void setQuantity(Quantity quantity) {
+        this.quantity = quantity;
     }
 
     public Money getPrice() {
